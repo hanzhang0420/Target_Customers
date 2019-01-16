@@ -1,8 +1,9 @@
 # Target_Customers
 Binary Classification, Offer Promotion to Target Customers 
 
-Part1: hw_data_clean-break
+Part1: data clean 
 
-Part2: hw_group
+Part2: iaps customer 
 
-Part3: hw_target_customer 
+Part3: model 
+
